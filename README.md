@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or suggestions, feel free to reach out:
 
 - Ívano Fontes - [ivanofontes.dev@gmail.com](mailto:ivanofontes.dev@gmail.com)
-- [linkedIn](https://www.linkedin.com/in/ívano-fontes/)
+- My lindedIn profile: [linkedIn](https://www.linkedin.com/in/ívano-fontes/)
 
 
 
